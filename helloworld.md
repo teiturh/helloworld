@@ -4,10 +4,7 @@ Teitur Helgason
 
 
 
-## R Markdown
-
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 
@@ -25,10 +22,18 @@ summary(cars)
 ##  Max.   :25.0   Max.   :120.00
 ```
 
+```r
 ## Including Plots
+```
 
 You can also embed plots, for example:
 
-![](helloworld_files/figure-html/pressure-1.png)<!-- -->
+![](helloworld_files/figure-html/r pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+---
+title: "helloworld.R"
+author: "teiturhelgason"
+date: "Tue Oct 11 19:53:01 2016"
+---
