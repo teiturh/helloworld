@@ -2,9 +2,13 @@
 title: "helloworld"
 author: "Teitur Helgason"
 date: "11 oktober 2016"
+<<<<<<< HEAD
 output: 
     html_document:
         keep_md: true
+=======
+output: html_document
+>>>>>>> b212400f56f1600d6c791fb7860f1e7c81da09c2
 ---
 
 ```{r setup, include=FALSE}
